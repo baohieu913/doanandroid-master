@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1082564341120",
+    "firebase_url": "https://datingapp-5be8f-default-rtdb.firebaseio.com",
+    "project_id": "datingapp-5be8f",
+    "storage_bucket": "datingapp-5be8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082564341120:android:ba3fc7ca27e4d4885ee565",
+        "android_client_info": {
+          "package_name": "com.example.dating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbpjgACh7iCSKilkQgZh6GhOu_6cLI7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
