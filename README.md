@@ -11,25 +11,33 @@ Dự án là một app android để mọi người có thể kết bạn nhắn
 
 ## Sử dụng
 1. *Chức năng chính:*
-- Trang giới thiệu
+
+  - Trang giới thiệu
+
 ![1](https://github.com/baohieu913/doanandroid-master/assets/132684764/111fd80c-c2bf-47d3-a652-85811fcf55f6)
 
-- Đăng nhập
+  - Đăng nhập
+
 ![2](https://github.com/baohieu913/doanandroid-master/assets/132684764/e3ffd907-0348-470d-8765-2ff49c02144a)
 
-- Đăng ký
+  - Đăng ký
+
 ![3](https://github.com/baohieu913/doanandroid-master/assets/132684764/a3cb5a2f-51de-4ae8-baaf-4208498f813d)
 
-- Thông tin cá nhân
+  - Thông tin cá nhân
+
 ![4](https://github.com/baohieu913/doanandroid-master/assets/132684764/74ca3a9b-e3cf-4bec-9749-7a95ec3143a7)
 
-- Trang chính
+  - Trang chính
+
 ![5](https://github.com/baohieu913/doanandroid-master/assets/132684764/de439041-0b3e-4f76-8e16-76ba95509d72)
 
-- Matches
+  - Matches
+
 ![6](https://github.com/baohieu913/doanandroid-master/assets/132684764/169e6e5a-932f-47ca-90d6-4e5732e235b8)
 
-- Chat
+  - Chat
+
 ![7](https://github.com/baohieu913/doanandroid-master/assets/132684764/8062d401-88da-483c-b40f-57776ac386c7)
 
 ## Thông tin thêm
